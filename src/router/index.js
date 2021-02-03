@@ -32,7 +32,7 @@ const router = new VueRouter({
 })
 
 router.beforeEach((to,from,next)=>{
-  const isAdmin = 'roK2SDfwdKWd9pYHEl8EDdTmIDT2'
+  const isAdmin = '4qN9mjka8ONKUyIleLkMvr8urWM2'
   const requiresAuth = to.matched.some(record=>record.meta.requiresAuth)
   const isAuthenticated = firebase.auth().currentUser
   if(requiresAuth && isAuthenticated.uid == isAdmin && to.name == 'admin')

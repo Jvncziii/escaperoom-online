@@ -22,3 +22,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+player1@hajs.pl lolxd1 - konto gracza
+admin@hajs.pl zaq1@WSX - konto admina
+/admin - route do panelu admina

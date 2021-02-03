@@ -1,6 +1,6 @@
 <template>
   <div class='riddle'>
-     XDDDD
+     UDP
   </div>
 </template>
 

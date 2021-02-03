@@ -1,0 +1,34 @@
+{"users": [
+{
+  "localId": "PayK5hTL8WQ6xLixynWXjDmPRWg2",
+  "email": "player2@hajs.pl",
+  "emailVerified": false,
+  "passwordHash": "9hQAq+xiAJND7i8zyICbCb6993WzpWGcw6lIoVbDUZkbNC2tdmGxit1YYVTZpyO1kL01G83qT2cOjwj7zDV5OA==",
+  "salt": "zmSE8SHOYx5MAg==",
+  "lastSignedInAt": "1607727603976",
+  "createdAt": "1607260359425",
+  "disabled": false,
+  "providerUserInfo": []
+},
+{
+  "localId": "gZzHwjtri7cMXJmkfpGbWqGNMaw2",
+  "email": "player1@hajs.pl",
+  "emailVerified": false,
+  "passwordHash": "9RwJE25lfJXQnOFYcW6rGzkaPHG8SJQrKTF7hS8jUYcJCP26mx+yXkVkfrZWvDfwU+n8bxfSktunx9dd4qB02g==",
+  "salt": "KWbw7B3rBJfIig==",
+  "lastSignedInAt": "1610135547810",
+  "createdAt": "1607260343701",
+  "disabled": false,
+  "providerUserInfo": []
+},
+{
+  "localId": "roK2SDfwdKWd9pYHEl8EDdTmIDT2",
+  "email": "dan.porzucek@gmail.com",
+  "emailVerified": true,
+  "passwordHash": "LAJKrIZPguAuyaqcI5wID53tZNwnuwTV41GTF7B9nt7CyDzTqR2rMq1bYLJ37++ebrKH344alXuwWTD6dQKGoA==",
+  "salt": "bKuvck2XbeSk8w==",
+  "lastSignedInAt": "1610138334448",
+  "createdAt": "1607260408552",
+  "disabled": false,
+  "providerUserInfo": []
+}]}

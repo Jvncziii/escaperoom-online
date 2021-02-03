@@ -12,7 +12,7 @@
         <riddles v-else-if='displayValue() == 1'></riddles>
         <log-out v-else-if='displayValue() == 2'></log-out>
       </div>
-    </div>
+    </div> 
   </div>
 </template>
 
